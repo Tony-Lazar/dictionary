@@ -26,8 +26,8 @@
       <file leaf-file-name="Term.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Term.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+            <state relative-caret-position="424">
+              <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -539,15 +539,15 @@
       <updated>1466629271718</updated>
       <workItem from="1466629275205" duration="5358000" />
       <workItem from="1466800483519" duration="2829000" />
-      <workItem from="1466873788260" duration="723000" />
+      <workItem from="1466873788260" duration="1008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8910000" />
+    <option name="totallyTimeSpent" value="9195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="683" height="768" extended-state="0" />
+    <frame x="0" y="0" width="683" height="768" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1622,8 +1622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Term.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        <state relative-caret-position="424">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
           <folding />
         </state>
       </provider>
