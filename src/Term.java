@@ -44,6 +44,11 @@ public abstract class Term{
 
     //Здесь будут Set'ы
 
+    public void set_value(String value) {
+        this._value = value;
+    }
+
+
     //-------------------------------------------------------------------------
 
     public abstract Word newInstanceSimple(String value, String translation);
